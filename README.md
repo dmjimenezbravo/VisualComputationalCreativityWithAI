@@ -9,7 +9,7 @@
     <a href="https://github.com/dmjimenezbravo/VisualComputationalCreativityWithAI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dmjimenezbravo/VisualComputationalCreativityWithAI/Slides/Creatividad computacional en las artes visuales mediante Inteligencia Artificial Splitted.pdf">View Slides</a>
+    <a href="https://github.com/dmjimenezbravo/VisualComputationalCreativityWithAI/blob/main/Slides/Creatividad%20computacional%20en%20las%20artes%20visuales%20mediante%20Inteligencia%20Artificial.pdf">View Slides</a>
     ·
     <a href="https://github.com/dmjimenezbravo/VisualComputationalCreativityWithAI/issues">Report Bug</a>
     ·
